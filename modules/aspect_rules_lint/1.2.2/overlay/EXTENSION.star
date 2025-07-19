@@ -1,0 +1,1 @@
+verb("lint", "//:lint.star")
