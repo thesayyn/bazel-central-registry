@@ -1,0 +1,14 @@
+{
+    "homepage": "https://github.com/aspect-build/starlark_verbs",
+    "maintainers": [
+        {
+            "email": "alex@aspect.build",
+            "github": "alexeagle",
+            "name": "Alex Eagle",
+            "github_user_id": 47395
+        }
+    ],
+    "repository": ["github:aspect-build/starlark_verbs"],
+    "versions": ["0.1.1"],
+    "yanked_versions": {}
+}

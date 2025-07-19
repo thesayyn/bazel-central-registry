@@ -1,0 +1,7 @@
+{
+    "integrity": "sha256-yQUB2yVI9K8n7Yc+QK3GUk/NhHLCX/mUa6E6p3x2ckk=",
+    "strip_prefix": "rules_lint-1.2.2",
+    "url": "https://github.com/aspect-build/rules_lint/releases/download/v1.2.2/rules_lint-v1.2.2.tar.gz",
+    "patches": {},
+    "patch_strip": 1
+}
